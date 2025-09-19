@@ -1,0 +1,2242 @@
+{
+  "pdf_id": "example_pdf_001",
+  "paragraphs": [
+    {
+      "paragraph_id": 1,
+      "original": "Monthly Sales Performance Report",
+      "proofread": "Monthly Sales Performance Report",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Monthly"
+        },
+        {
+          "idx": 1,
+          "word": "Sales"
+        },
+        {
+          "idx": 2,
+          "word": "Performance"
+        },
+        {
+          "idx": 3,
+          "word": "Report"
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Monthly"
+        },
+        {
+          "idx": 1,
+          "word": "Sales"
+        },
+        {
+          "idx": 2,
+          "word": "Performance"
+        },
+        {
+          "idx": 3,
+          "word": "Report"
+        }
+      ],
+      "original_text": [],
+      "revised_text": []
+    },
+    {
+      "paragraph_id": 2,
+      "original": "Departmant of Marketing Date: May 31st, 2025",
+      "proofread": "Department of Marketing Date: May 31st, 2025",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Departmant"
+        },
+        {
+          "idx": 1,
+          "word": "of"
+        },
+        {
+          "idx": 2,
+          "word": "Marketing"
+        },
+        {
+          "idx": 3,
+          "word": "Date:"
+        },
+        {
+          "idx": 4,
+          "word": "May"
+        },
+        {
+          "idx": 5,
+          "word": "31st,"
+        },
+        {
+          "idx": 6,
+          "word": "2025"
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Department"
+        },
+        {
+          "idx": 1,
+          "word": "of"
+        },
+        {
+          "idx": 2,
+          "word": "Marketing"
+        },
+        {
+          "idx": 3,
+          "word": "Date:"
+        },
+        {
+          "idx": 4,
+          "word": "May"
+        },
+        {
+          "idx": 5,
+          "word": "31st,"
+        },
+        {
+          "idx": 6,
+          "word": "2025"
+        }
+      ],
+      "original_text": [
+        {
+          "index": 0,
+          "word": "Departmant",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 0,
+          "word": "Department",
+          "type": "corrected",
+          "suggestions": [
+            "Department"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 3,
+      "original": "Introuduction:",
+      "proofread": "Introduction:",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Introuduction"
+        },
+        {
+          "idx": 1,
+          "word": ":"
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Introduction"
+        },
+        {
+          "idx": 1,
+          "word": ":"
+        }
+      ],
+      "original_text": [
+        {
+          "index": 0,
+          "word": "Introuduction",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 0,
+          "word": "Introduction",
+          "type": "corrected",
+          "suggestions": [
+            "Introduction"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 4,
+      "original": "This report aim to provide a overview of the sales activity for the month of May. The departmant has work hard to meet its monthly goals and continue it's efforts to improve overal performance.",
+      "proofread": "This report aims to provide an overview of the sales activity for the month of May. The department has worked hard to meet its monthly goals and continues its efforts to improve overall performance.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "This"
+        },
+        {
+          "idx": 1,
+          "word": "report"
+        },
+        {
+          "idx": 2,
+          "word": "aim"
+        },
+        {
+          "idx": 3,
+          "word": "to"
+        },
+        {
+          "idx": 4,
+          "word": "provide"
+        },
+        {
+          "idx": 5,
+          "word": "a"
+        },
+        {
+          "idx": 6,
+          "word": "overview"
+        },
+        {
+          "idx": 7,
+          "word": "of"
+        },
+        {
+          "idx": 8,
+          "word": "the"
+        },
+        {
+          "idx": 9,
+          "word": "sales"
+        },
+        {
+          "idx": 10,
+          "word": "activity"
+        },
+        {
+          "idx": 11,
+          "word": "for"
+        },
+        {
+          "idx": 12,
+          "word": "the"
+        },
+        {
+          "idx": 13,
+          "word": "month"
+        },
+        {
+          "idx": 14,
+          "word": "of"
+        },
+        {
+          "idx": 15,
+          "word": "May."
+        },
+        {
+          "idx": 16,
+          "word": "The"
+        },
+        {
+          "idx": 17,
+          "word": "departmant"
+        },
+        {
+          "idx": 18,
+          "word": "has"
+        },
+        {
+          "idx": 19,
+          "word": "work"
+        },
+        {
+          "idx": 20,
+          "word": "hard"
+        },
+        {
+          "idx": 21,
+          "word": "to"
+        },
+        {
+          "idx": 22,
+          "word": "meet"
+        },
+        {
+          "idx": 23,
+          "word": "its"
+        },
+        {
+          "idx": 24,
+          "word": "monthly"
+        },
+        {
+          "idx": 25,
+          "word": "goals"
+        },
+        {
+          "idx": 26,
+          "word": "and"
+        },
+        {
+          "idx": 27,
+          "word": "continue"
+        },
+        {
+          "idx": 28,
+          "word": "it's"
+        },
+        {
+          "idx": 29,
+          "word": "efforts"
+        },
+        {
+          "idx": 30,
+          "word": "to"
+        },
+        {
+          "idx": 31,
+          "word": "improve"
+        },
+        {
+          "idx": 32,
+          "word": "overal"
+        },
+        {
+          "idx": 33,
+          "word": "performance."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "This"
+        },
+        {
+          "idx": 1,
+          "word": "report"
+        },
+        {
+          "idx": 2,
+          "word": "aims"
+        },
+        {
+          "idx": 3,
+          "word": "to"
+        },
+        {
+          "idx": 4,
+          "word": "provide"
+        },
+        {
+          "idx": 5,
+          "word": "an"
+        },
+        {
+          "idx": 6,
+          "word": "overview"
+        },
+        {
+          "idx": 7,
+          "word": "of"
+        },
+        {
+          "idx": 8,
+          "word": "the"
+        },
+        {
+          "idx": 9,
+          "word": "sales"
+        },
+        {
+          "idx": 10,
+          "word": "activity"
+        },
+        {
+          "idx": 11,
+          "word": "for"
+        },
+        {
+          "idx": 12,
+          "word": "the"
+        },
+        {
+          "idx": 13,
+          "word": "month"
+        },
+        {
+          "idx": 14,
+          "word": "of"
+        },
+        {
+          "idx": 15,
+          "word": "May."
+        },
+        {
+          "idx": 16,
+          "word": "The"
+        },
+        {
+          "idx": 17,
+          "word": "department"
+        },
+        {
+          "idx": 18,
+          "word": "has"
+        },
+        {
+          "idx": 19,
+          "word": "worked"
+        },
+        {
+          "idx": 20,
+          "word": "hard"
+        },
+        {
+          "idx": 21,
+          "word": "to"
+        },
+        {
+          "idx": 22,
+          "word": "meet"
+        },
+        {
+          "idx": 23,
+          "word": "its"
+        },
+        {
+          "idx": 24,
+          "word": "monthly"
+        },
+        {
+          "idx": 25,
+          "word": "goals"
+        },
+        {
+          "idx": 26,
+          "word": "and"
+        },
+        {
+          "idx": 27,
+          "word": "continues"
+        },
+        {
+          "idx": 28,
+          "word": "its"
+        },
+        {
+          "idx": 29,
+          "word": "efforts"
+        },
+        {
+          "idx": 30,
+          "word": "to"
+        },
+        {
+          "idx": 31,
+          "word": "improve"
+        },
+        {
+          "idx": 32,
+          "word": "overall"
+        },
+        {
+          "idx": 33,
+          "word": "performance."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 2,
+          "word": "aim",
+          "type": "error"
+        },
+        {
+          "index": 5,
+          "word": "a",
+          "type": "error"
+        },
+        {
+          "index": 17,
+          "word": "departmant",
+          "type": "error"
+        },
+        {
+          "index": 19,
+          "word": "work",
+          "type": "error"
+        },
+        {
+          "index": 27,
+          "word": "continue",
+          "type": "error"
+        },
+        {
+          "index": 28,
+          "word": "it's",
+          "type": "error"
+        },
+        {
+          "index": 32,
+          "word": "overal",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 2,
+          "word": "aims",
+          "type": "corrected",
+          "suggestions": [
+            "aims"
+          ]
+        },
+        {
+          "index": 5,
+          "word": "an",
+          "type": "corrected",
+          "suggestions": [
+            "an"
+          ]
+        },
+        {
+          "index": 17,
+          "word": "department",
+          "type": "corrected",
+          "suggestions": [
+            "department"
+          ]
+        },
+        {
+          "index": 19,
+          "word": "worked",
+          "type": "corrected",
+          "suggestions": [
+            "worked"
+          ]
+        },
+        {
+          "index": 27,
+          "word": "continues",
+          "type": "corrected",
+          "suggestions": [
+            "continues"
+          ]
+        },
+        {
+          "index": 28,
+          "word": "its",
+          "type": "corrected",
+          "suggestions": [
+            "its"
+          ]
+        },
+        {
+          "index": 32,
+          "word": "overall",
+          "type": "corrected",
+          "suggestions": [
+            "overall"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 5,
+      "original": "Sales Data Overview: ",
+      "proofread": "Sales Data Overview: ",
+      "original_token": [],
+      "proofread_token": [],
+      "original_text": [],
+      "revised_text": []
+    },
+    {
+      "paragraph_id": 6,
+      "original": "Total sales for the month was $124,500, which is lower then the target of $135,000. One of the main reason for the shortfall was the delay in product shipment and high competiton in the market.",
+      "proofread": "Total sales for the month were $124,500, which is lower than the target of $135,000. One of the main reasons for the shortfall was the delay in product shipment and high competition in the market.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Total"
+        },
+        {
+          "idx": 1,
+          "word": "sales"
+        },
+        {
+          "idx": 2,
+          "word": "for"
+        },
+        {
+          "idx": 3,
+          "word": "the"
+        },
+        {
+          "idx": 4,
+          "word": "month"
+        },
+        {
+          "idx": 5,
+          "word": "was"
+        },
+        {
+          "idx": 6,
+          "word": "$124,500,"
+        },
+        {
+          "idx": 7,
+          "word": "which"
+        },
+        {
+          "idx": 8,
+          "word": "is"
+        },
+        {
+          "idx": 9,
+          "word": "lower"
+        },
+        {
+          "idx": 10,
+          "word": "then"
+        },
+        {
+          "idx": 11,
+          "word": "the"
+        },
+        {
+          "idx": 12,
+          "word": "target"
+        },
+        {
+          "idx": 13,
+          "word": "of"
+        },
+        {
+          "idx": 14,
+          "word": "$135,000."
+        },
+        {
+          "idx": 15,
+          "word": "One"
+        },
+        {
+          "idx": 16,
+          "word": "of"
+        },
+        {
+          "idx": 17,
+          "word": "the"
+        },
+        {
+          "idx": 18,
+          "word": "main"
+        },
+        {
+          "idx": 19,
+          "word": "reason"
+        },
+        {
+          "idx": 20,
+          "word": "for"
+        },
+        {
+          "idx": 21,
+          "word": "the"
+        },
+        {
+          "idx": 22,
+          "word": "shortfall"
+        },
+        {
+          "idx": 23,
+          "word": "was"
+        },
+        {
+          "idx": 24,
+          "word": "the"
+        },
+        {
+          "idx": 25,
+          "word": "delay"
+        },
+        {
+          "idx": 26,
+          "word": "in"
+        },
+        {
+          "idx": 27,
+          "word": "product"
+        },
+        {
+          "idx": 28,
+          "word": "shipment"
+        },
+        {
+          "idx": 29,
+          "word": "and"
+        },
+        {
+          "idx": 30,
+          "word": "high"
+        },
+        {
+          "idx": 31,
+          "word": "competiton"
+        },
+        {
+          "idx": 32,
+          "word": "in"
+        },
+        {
+          "idx": 33,
+          "word": "the"
+        },
+        {
+          "idx": 34,
+          "word": "market."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Total"
+        },
+        {
+          "idx": 1,
+          "word": "sales"
+        },
+        {
+          "idx": 2,
+          "word": "for"
+        },
+        {
+          "idx": 3,
+          "word": "the"
+        },
+        {
+          "idx": 4,
+          "word": "month"
+        },
+        {
+          "idx": 5,
+          "word": "were"
+        },
+        {
+          "idx": 6,
+          "word": "$124,500,"
+        },
+        {
+          "idx": 7,
+          "word": "which"
+        },
+        {
+          "idx": 8,
+          "word": "is"
+        },
+        {
+          "idx": 9,
+          "word": "lower"
+        },
+        {
+          "idx": 10,
+          "word": "than"
+        },
+        {
+          "idx": 11,
+          "word": "the"
+        },
+        {
+          "idx": 12,
+          "word": "target"
+        },
+        {
+          "idx": 13,
+          "word": "of"
+        },
+        {
+          "idx": 14,
+          "word": "$135,000."
+        },
+        {
+          "idx": 15,
+          "word": "One"
+        },
+        {
+          "idx": 16,
+          "word": "of"
+        },
+        {
+          "idx": 17,
+          "word": "the"
+        },
+        {
+          "idx": 18,
+          "word": "main"
+        },
+        {
+          "idx": 19,
+          "word": "reasons"
+        },
+        {
+          "idx": 20,
+          "word": "for"
+        },
+        {
+          "idx": 21,
+          "word": "the"
+        },
+        {
+          "idx": 22,
+          "word": "shortfall"
+        },
+        {
+          "idx": 23,
+          "word": "was"
+        },
+        {
+          "idx": 24,
+          "word": "the"
+        },
+        {
+          "idx": 25,
+          "word": "delay"
+        },
+        {
+          "idx": 26,
+          "word": "in"
+        },
+        {
+          "idx": 27,
+          "word": "product"
+        },
+        {
+          "idx": 28,
+          "word": "shipment"
+        },
+        {
+          "idx": 29,
+          "word": "and"
+        },
+        {
+          "idx": 30,
+          "word": "high"
+        },
+        {
+          "idx": 31,
+          "word": "competition"
+        },
+        {
+          "idx": 32,
+          "word": "in"
+        },
+        {
+          "idx": 33,
+          "word": "the"
+        },
+        {
+          "idx": 34,
+          "word": "market."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 5,
+          "word": "was",
+          "type": "error"
+        },
+        {
+          "index": 10,
+          "word": "then",
+          "type": "error"
+        },
+        {
+          "index": 19,
+          "word": "reason",
+          "type": "error"
+        },
+        {
+          "index": 31,
+          "word": "competiton",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 5,
+          "word": "were",
+          "type": "corrected",
+          "suggestions": [
+            "were"
+          ]
+        },
+        {
+          "index": 10,
+          "word": "than",
+          "type": "corrected",
+          "suggestions": [
+            "than"
+          ]
+        },
+        {
+          "index": 19,
+          "word": "reasons",
+          "type": "corrected",
+          "suggestions": [
+            "reasons"
+          ]
+        },
+        {
+          "index": 31,
+          "word": "competition",
+          "type": "corrected",
+          "suggestions": [
+            "competition"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 7,
+      "original": "Team Performance: ",
+      "proofread": "Team Performance: ",
+      "original_token": [],
+      "proofread_token": [],
+      "original_text": [],
+      "revised_text": []
+    },
+    {
+      "paragraph_id": 8,
+      "original": "The sales team showed good coopration and put alot of effort into reaching prospect customers. However, some member lack the skill in closing deals effectively. Training should be provide to improve there performance in that area.",
+      "proofread": "The sales team showed good cooperation and put a lot of effort into reaching prospective customers. However, some members lack the skill in closing deals effectively. Training should be provided to improve their performance in that area.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "The"
+        },
+        {
+          "idx": 1,
+          "word": "sales"
+        },
+        {
+          "idx": 2,
+          "word": "team"
+        },
+        {
+          "idx": 3,
+          "word": "showed"
+        },
+        {
+          "idx": 4,
+          "word": "good"
+        },
+        {
+          "idx": 5,
+          "word": "coopration"
+        },
+        {
+          "idx": 6,
+          "word": "and"
+        },
+        {
+          "idx": 7,
+          "word": "put"
+        },
+        {
+          "idx": 8,
+          "word": "alot"
+        },
+        {
+          "idx": 9,
+          "word": "of"
+        },
+        {
+          "idx": 10,
+          "word": "effort"
+        },
+        {
+          "idx": 11,
+          "word": "into"
+        },
+        {
+          "idx": 12,
+          "word": "reaching"
+        },
+        {
+          "idx": 13,
+          "word": "prospect"
+        },
+        {
+          "idx": 14,
+          "word": "customers."
+        },
+        {
+          "idx": 15,
+          "word": "However,"
+        },
+        {
+          "idx": 16,
+          "word": "some"
+        },
+        {
+          "idx": 17,
+          "word": "member"
+        },
+        {
+          "idx": 18,
+          "word": "lack"
+        },
+        {
+          "idx": 19,
+          "word": "the"
+        },
+        {
+          "idx": 20,
+          "word": "skill"
+        },
+        {
+          "idx": 21,
+          "word": "in"
+        },
+        {
+          "idx": 22,
+          "word": "closing"
+        },
+        {
+          "idx": 23,
+          "word": "deals"
+        },
+        {
+          "idx": 24,
+          "word": "effectively."
+        },
+        {
+          "idx": 25,
+          "word": "Training"
+        },
+        {
+          "idx": 26,
+          "word": "should"
+        },
+        {
+          "idx": 27,
+          "word": "be"
+        },
+        {
+          "idx": 28,
+          "word": "provide"
+        },
+        {
+          "idx": 29,
+          "word": "to"
+        },
+        {
+          "idx": 30,
+          "word": "improve"
+        },
+        {
+          "idx": 31,
+          "word": "there"
+        },
+        {
+          "idx": 32,
+          "word": "performance"
+        },
+        {
+          "idx": 33,
+          "word": "in"
+        },
+        {
+          "idx": 34,
+          "word": "that"
+        },
+        {
+          "idx": 35,
+          "word": "area."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "The"
+        },
+        {
+          "idx": 1,
+          "word": "sales"
+        },
+        {
+          "idx": 2,
+          "word": "team"
+        },
+        {
+          "idx": 3,
+          "word": "showed"
+        },
+        {
+          "idx": 4,
+          "word": "good"
+        },
+        {
+          "idx": 5,
+          "word": "cooperation"
+        },
+        {
+          "idx": 6,
+          "word": "and"
+        },
+        {
+          "idx": 7,
+          "word": "put"
+        },
+        {
+          "idx": 8,
+          "word": "a"
+        },
+        {
+          "idx": 9,
+          "word": "lot"
+        },
+        {
+          "idx": 10,
+          "word": "of"
+        },
+        {
+          "idx": 11,
+          "word": "effort"
+        },
+        {
+          "idx": 12,
+          "word": "into"
+        },
+        {
+          "idx": 13,
+          "word": "reaching"
+        },
+        {
+          "idx": 14,
+          "word": "prospective"
+        },
+        {
+          "idx": 15,
+          "word": "customers."
+        },
+        {
+          "idx": 16,
+          "word": "However,"
+        },
+        {
+          "idx": 17,
+          "word": "some"
+        },
+        {
+          "idx": 18,
+          "word": "members"
+        },
+        {
+          "idx": 19,
+          "word": "lack"
+        },
+        {
+          "idx": 20,
+          "word": "the"
+        },
+        {
+          "idx": 21,
+          "word": "skill"
+        },
+        {
+          "idx": 22,
+          "word": "in"
+        },
+        {
+          "idx": 23,
+          "word": "closing"
+        },
+        {
+          "idx": 24,
+          "word": "deals"
+        },
+        {
+          "idx": 25,
+          "word": "effectively."
+        },
+        {
+          "idx": 26,
+          "word": "Training"
+        },
+        {
+          "idx": 27,
+          "word": "should"
+        },
+        {
+          "idx": 28,
+          "word": "be"
+        },
+        {
+          "idx": 29,
+          "word": "provided"
+        },
+        {
+          "idx": 30,
+          "word": "to"
+        },
+        {
+          "idx": 31,
+          "word": "improve"
+        },
+        {
+          "idx": 32,
+          "word": "their"
+        },
+        {
+          "idx": 33,
+          "word": "performance"
+        },
+        {
+          "idx": 34,
+          "word": "in"
+        },
+        {
+          "idx": 35,
+          "word": "that"
+        },
+        {
+          "idx": 36,
+          "word": "area."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 5,
+          "word": "coopration",
+          "type": "error"
+        },
+        {
+          "index": 8,
+          "word": "alot",
+          "type": "error"
+        },
+        {
+          "index": 13,
+          "word": "prospect",
+          "type": "error"
+        },
+        {
+          "index": 17,
+          "word": "member",
+          "type": "error"
+        },
+        {
+          "index": 28,
+          "word": "provide",
+          "type": "error"
+        },
+        {
+          "index": 31,
+          "word": "there",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 5,
+          "word": "cooperation",
+          "type": "corrected",
+          "suggestions": [
+            "cooperation"
+          ]
+        },
+        {
+          "index": 8,
+          "word": "a",
+          "type": "corrected",
+          "suggestions": [
+            "a"
+          ]
+        },
+        {
+          "index": 9,
+          "word": "lot",
+          "type": "inserted",
+          "suggestions": [
+            "lot"
+          ]
+        },
+        {
+          "index": 14,
+          "word": "prospective",
+          "type": "corrected",
+          "suggestions": [
+            "prospective"
+          ]
+        },
+        {
+          "index": 18,
+          "word": "members",
+          "type": "corrected",
+          "suggestions": [
+            "members"
+          ]
+        },
+        {
+          "index": 29,
+          "word": "provided",
+          "type": "corrected",
+          "suggestions": [
+            "provided"
+          ]
+        },
+        {
+          "index": 32,
+          "word": "their",
+          "type": "corrected",
+          "suggestions": [
+            "their"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 9,
+      "original": "Marketing Initiatives: ",
+      "proofread": "Marketing Initiatives: ",
+      "original_token": [],
+      "proofread_token": [],
+      "original_text": [],
+      "revised_text": []
+    },
+    {
+      "paragraph_id": 10,
+      "original": "Several campains was launched through social media, but the respond rate was not as high as expected. More atention should be give to content quality and timming of promotion.",
+      "proofread": "Several campaigns were launched through social media, but the response rate was not as high as expected. More attention should be given to content quality and timing of promotion.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Several"
+        },
+        {
+          "idx": 1,
+          "word": "campains"
+        },
+        {
+          "idx": 2,
+          "word": "was"
+        },
+        {
+          "idx": 3,
+          "word": "launched"
+        },
+        {
+          "idx": 4,
+          "word": "through"
+        },
+        {
+          "idx": 5,
+          "word": "social"
+        },
+        {
+          "idx": 6,
+          "word": "media,"
+        },
+        {
+          "idx": 7,
+          "word": "but"
+        },
+        {
+          "idx": 8,
+          "word": "the"
+        },
+        {
+          "idx": 9,
+          "word": "respond"
+        },
+        {
+          "idx": 10,
+          "word": "rate"
+        },
+        {
+          "idx": 11,
+          "word": "was"
+        },
+        {
+          "idx": 12,
+          "word": "not"
+        },
+        {
+          "idx": 13,
+          "word": "as"
+        },
+        {
+          "idx": 14,
+          "word": "high"
+        },
+        {
+          "idx": 15,
+          "word": "as"
+        },
+        {
+          "idx": 16,
+          "word": "expected."
+        },
+        {
+          "idx": 17,
+          "word": "More"
+        },
+        {
+          "idx": 18,
+          "word": "atention"
+        },
+        {
+          "idx": 19,
+          "word": "should"
+        },
+        {
+          "idx": 20,
+          "word": "be"
+        },
+        {
+          "idx": 21,
+          "word": "give"
+        },
+        {
+          "idx": 22,
+          "word": "to"
+        },
+        {
+          "idx": 23,
+          "word": "content"
+        },
+        {
+          "idx": 24,
+          "word": "quality"
+        },
+        {
+          "idx": 25,
+          "word": "and"
+        },
+        {
+          "idx": 26,
+          "word": "timming"
+        },
+        {
+          "idx": 27,
+          "word": "of"
+        },
+        {
+          "idx": 28,
+          "word": "promotion."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Several"
+        },
+        {
+          "idx": 1,
+          "word": "campaigns"
+        },
+        {
+          "idx": 2,
+          "word": "were"
+        },
+        {
+          "idx": 3,
+          "word": "launched"
+        },
+        {
+          "idx": 4,
+          "word": "through"
+        },
+        {
+          "idx": 5,
+          "word": "social"
+        },
+        {
+          "idx": 6,
+          "word": "media,"
+        },
+        {
+          "idx": 7,
+          "word": "but"
+        },
+        {
+          "idx": 8,
+          "word": "the"
+        },
+        {
+          "idx": 9,
+          "word": "response"
+        },
+        {
+          "idx": 10,
+          "word": "rate"
+        },
+        {
+          "idx": 11,
+          "word": "was"
+        },
+        {
+          "idx": 12,
+          "word": "not"
+        },
+        {
+          "idx": 13,
+          "word": "as"
+        },
+        {
+          "idx": 14,
+          "word": "high"
+        },
+        {
+          "idx": 15,
+          "word": "as"
+        },
+        {
+          "idx": 16,
+          "word": "expected."
+        },
+        {
+          "idx": 17,
+          "word": "More"
+        },
+        {
+          "idx": 18,
+          "word": "attention"
+        },
+        {
+          "idx": 19,
+          "word": "should"
+        },
+        {
+          "idx": 20,
+          "word": "be"
+        },
+        {
+          "idx": 21,
+          "word": "given"
+        },
+        {
+          "idx": 22,
+          "word": "to"
+        },
+        {
+          "idx": 23,
+          "word": "content"
+        },
+        {
+          "idx": 24,
+          "word": "quality"
+        },
+        {
+          "idx": 25,
+          "word": "and"
+        },
+        {
+          "idx": 26,
+          "word": "timing"
+        },
+        {
+          "idx": 27,
+          "word": "of"
+        },
+        {
+          "idx": 28,
+          "word": "promotion."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 1,
+          "word": "campains",
+          "type": "error"
+        },
+        {
+          "index": 2,
+          "word": "was",
+          "type": "error"
+        },
+        {
+          "index": 9,
+          "word": "respond",
+          "type": "error"
+        },
+        {
+          "index": 18,
+          "word": "atention",
+          "type": "error"
+        },
+        {
+          "index": 21,
+          "word": "give",
+          "type": "error"
+        },
+        {
+          "index": 26,
+          "word": "timming",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 1,
+          "word": "campaigns",
+          "type": "corrected",
+          "suggestions": [
+            "campaigns"
+          ]
+        },
+        {
+          "index": 2,
+          "word": "were",
+          "type": "corrected",
+          "suggestions": [
+            "were"
+          ]
+        },
+        {
+          "index": 9,
+          "word": "response",
+          "type": "corrected",
+          "suggestions": [
+            "response"
+          ]
+        },
+        {
+          "index": 18,
+          "word": "attention",
+          "type": "corrected",
+          "suggestions": [
+            "attention"
+          ]
+        },
+        {
+          "index": 21,
+          "word": "given",
+          "type": "corrected",
+          "suggestions": [
+            "given"
+          ]
+        },
+        {
+          "index": 26,
+          "word": "timing",
+          "type": "corrected",
+          "suggestions": [
+            "timing"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 11,
+      "original": "Conclusion and Recomandations:",
+      "proofread": "Conclusion and Recommendations:",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Conclusion"
+        },
+        {
+          "idx": 1,
+          "word": "and"
+        },
+        {
+          "idx": 2,
+          "word": "Recomandations"
+        },
+        {
+          "idx": 3,
+          "word": ":"
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Conclusion"
+        },
+        {
+          "idx": 1,
+          "word": "and"
+        },
+        {
+          "idx": 2,
+          "word": "Recommendations"
+        },
+        {
+          "idx": 3,
+          "word": ":"
+        }
+      ],
+      "original_text": [
+        {
+          "index": 2,
+          "word": "Recomandations",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 2,
+          "word": "Recommendations",
+          "type": "corrected",
+          "suggestions": [
+            "Recommendations"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 12,
+      "original": "In conclusion, while the sales did not meet the expectated target, the team effort is commendeble. Going forward, its recommended to:",
+      "proofread": "In conclusion, while the sales did not meet the expected target, the team effort is commendable. Going forward, it's recommended to:",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "In"
+        },
+        {
+          "idx": 1,
+          "word": "conclusion,"
+        },
+        {
+          "idx": 2,
+          "word": "while"
+        },
+        {
+          "idx": 3,
+          "word": "the"
+        },
+        {
+          "idx": 4,
+          "word": "sales"
+        },
+        {
+          "idx": 5,
+          "word": "did"
+        },
+        {
+          "idx": 6,
+          "word": "not"
+        },
+        {
+          "idx": 7,
+          "word": "meet"
+        },
+        {
+          "idx": 8,
+          "word": "the"
+        },
+        {
+          "idx": 9,
+          "word": "expectated"
+        },
+        {
+          "idx": 10,
+          "word": "target,"
+        },
+        {
+          "idx": 11,
+          "word": "the"
+        },
+        {
+          "idx": 12,
+          "word": "team"
+        },
+        {
+          "idx": 13,
+          "word": "effort"
+        },
+        {
+          "idx": 14,
+          "word": "is"
+        },
+        {
+          "idx": 15,
+          "word": "commendeble."
+        },
+        {
+          "idx": 16,
+          "word": "Going"
+        },
+        {
+          "idx": 17,
+          "word": "forward,"
+        },
+        {
+          "idx": 18,
+          "word": "its"
+        },
+        {
+          "idx": 19,
+          "word": "recommended"
+        },
+        {
+          "idx": 20,
+          "word": "to:"
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "In"
+        },
+        {
+          "idx": 1,
+          "word": "conclusion,"
+        },
+        {
+          "idx": 2,
+          "word": "while"
+        },
+        {
+          "idx": 3,
+          "word": "the"
+        },
+        {
+          "idx": 4,
+          "word": "sales"
+        },
+        {
+          "idx": 5,
+          "word": "did"
+        },
+        {
+          "idx": 6,
+          "word": "not"
+        },
+        {
+          "idx": 7,
+          "word": "meet"
+        },
+        {
+          "idx": 8,
+          "word": "the"
+        },
+        {
+          "idx": 9,
+          "word": "expected"
+        },
+        {
+          "idx": 10,
+          "word": "target,"
+        },
+        {
+          "idx": 11,
+          "word": "the"
+        },
+        {
+          "idx": 12,
+          "word": "team"
+        },
+        {
+          "idx": 13,
+          "word": "effort"
+        },
+        {
+          "idx": 14,
+          "word": "is"
+        },
+        {
+          "idx": 15,
+          "word": "commendable."
+        },
+        {
+          "idx": 16,
+          "word": "Going"
+        },
+        {
+          "idx": 17,
+          "word": "forward,"
+        },
+        {
+          "idx": 18,
+          "word": "it's"
+        },
+        {
+          "idx": 19,
+          "word": "recommended"
+        },
+        {
+          "idx": 20,
+          "word": "to:"
+        }
+      ],
+      "original_text": [
+        {
+          "index": 9,
+          "word": "expectated",
+          "type": "error"
+        },
+        {
+          "index": 15,
+          "word": "commendeble.",
+          "type": "error"
+        },
+        {
+          "index": 18,
+          "word": "its",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 9,
+          "word": "expected",
+          "type": "corrected",
+          "suggestions": [
+            "expected"
+          ]
+        },
+        {
+          "index": 15,
+          "word": "commendable.",
+          "type": "corrected",
+          "suggestions": [
+            "commendable."
+          ]
+        },
+        {
+          "index": 18,
+          "word": "it's",
+          "type": "corrected",
+          "suggestions": [
+            "it's"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 13,
+      "original": "Improve trainning for new team members.",
+      "proofread": "Improve training for new team members.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Improve"
+        },
+        {
+          "idx": 1,
+          "word": "trainning"
+        },
+        {
+          "idx": 2,
+          "word": "for"
+        },
+        {
+          "idx": 3,
+          "word": "new"
+        },
+        {
+          "idx": 4,
+          "word": "team"
+        },
+        {
+          "idx": 5,
+          "word": "members"
+        },
+        {
+          "idx": 6,
+          "word": "."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Improve"
+        },
+        {
+          "idx": 1,
+          "word": "training"
+        },
+        {
+          "idx": 2,
+          "word": "for"
+        },
+        {
+          "idx": 3,
+          "word": "new"
+        },
+        {
+          "idx": 4,
+          "word": "team"
+        },
+        {
+          "idx": 5,
+          "word": "members"
+        },
+        {
+          "idx": 6,
+          "word": "."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 1,
+          "word": "trainning",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 1,
+          "word": "training",
+          "type": "corrected",
+          "suggestions": [
+            "training"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 14,
+      "original": "Focus more on client retantion strategies.",
+      "proofread": "Focus more on client retention strategies.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Focus"
+        },
+        {
+          "idx": 1,
+          "word": "more"
+        },
+        {
+          "idx": 2,
+          "word": "on"
+        },
+        {
+          "idx": 3,
+          "word": "client"
+        },
+        {
+          "idx": 4,
+          "word": "retantion"
+        },
+        {
+          "idx": 5,
+          "word": "strategies"
+        },
+        {
+          "idx": 6,
+          "word": "."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Focus"
+        },
+        {
+          "idx": 1,
+          "word": "more"
+        },
+        {
+          "idx": 2,
+          "word": "on"
+        },
+        {
+          "idx": 3,
+          "word": "client"
+        },
+        {
+          "idx": 4,
+          "word": "retention"
+        },
+        {
+          "idx": 5,
+          "word": "strategies"
+        },
+        {
+          "idx": 6,
+          "word": "."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 4,
+          "word": "retantion",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 4,
+          "word": "retention",
+          "type": "corrected",
+          "suggestions": [
+            "retention"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 15,
+      "original": "Ensure that product deliverys are not delayed.",
+      "proofread": "Ensure that product deliveries are not delayed.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Ensure"
+        },
+        {
+          "idx": 1,
+          "word": "that"
+        },
+        {
+          "idx": 2,
+          "word": "product"
+        },
+        {
+          "idx": 3,
+          "word": "deliverys"
+        },
+        {
+          "idx": 4,
+          "word": "are"
+        },
+        {
+          "idx": 5,
+          "word": "not"
+        },
+        {
+          "idx": 6,
+          "word": "delayed"
+        },
+        {
+          "idx": 7,
+          "word": "."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Ensure"
+        },
+        {
+          "idx": 1,
+          "word": "that"
+        },
+        {
+          "idx": 2,
+          "word": "product"
+        },
+        {
+          "idx": 3,
+          "word": "deliveries"
+        },
+        {
+          "idx": 4,
+          "word": "are"
+        },
+        {
+          "idx": 5,
+          "word": "not"
+        },
+        {
+          "idx": 6,
+          "word": "delayed"
+        },
+        {
+          "idx": 7,
+          "word": "."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 3,
+          "word": "deliverys",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 3,
+          "word": "deliveries",
+          "type": "corrected",
+          "suggestions": [
+            "deliveries"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 16,
+      "original": "Prepared by: ",
+      "proofread": "Prepared by: ",
+      "original_token": [],
+      "proofread_token": [],
+      "original_text": [],
+      "revised_text": []
+    },
+    {
+      "paragraph_id": 17,
+      "original": "User ABC ",
+      "proofread": "User ABC ",
+      "original_token": [],
+      "proofread_token": [],
+      "original_text": [],
+      "revised_text": []
+    },
+    {
+      "paragraph_id": 18,
+      "original": "Senior Analyst, Marketing Departmant",
+      "proofread": "Senior Analyst, Marketing Department",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Senior"
+        },
+        {
+          "idx": 1,
+          "word": "Analyst,"
+        },
+        {
+          "idx": 2,
+          "word": "Marketing"
+        },
+        {
+          "idx": 3,
+          "word": "Departmant"
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Senior"
+        },
+        {
+          "idx": 1,
+          "word": "Analyst,"
+        },
+        {
+          "idx": 2,
+          "word": "Marketing"
+        },
+        {
+          "idx": 3,
+          "word": "Department"
+        }
+      ],
+      "original_text": [
+        {
+          "index": 3,
+          "word": "Departmant",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 3,
+          "word": "Department",
+          "type": "corrected",
+          "suggestions": [
+            "Department"
+          ]
+        }
+      ]
+    }
+  ]
+}

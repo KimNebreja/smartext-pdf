@@ -1,0 +1,1176 @@
+{
+  "pdf_id": "example_pdf_001",
+  "paragraphs": [
+    {
+      "paragraph_id": 2,
+      "original": "The figure above shown is the use case diagram in terms of the web system \"SmarText PDF\". The system provides automated proofreading with text-to-speech functionality. The use case or key features illustrated on the figure are includes signing up or logging in to acess the web-based platform, uploading a PDF documnt for proofreading, and automatically proofreading the document.",
+      "proofread": "The figure shown above is the use case diagram for the web system \"SmarText PDF.\" The system provides automated proofreading with text-to-speech functionality. The use case or key features illustrated in the figure include signing up or logging in to access the web-based platform, uploading a PDF document for proofreading, and automatically proofreading the document.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "The"
+        },
+        {
+          "idx": 1,
+          "word": "figure"
+        },
+        {
+          "idx": 2,
+          "word": "above"
+        },
+        {
+          "idx": 3,
+          "word": "shown"
+        },
+        {
+          "idx": 4,
+          "word": "is"
+        },
+        {
+          "idx": 5,
+          "word": "the"
+        },
+        {
+          "idx": 6,
+          "word": "use"
+        },
+        {
+          "idx": 7,
+          "word": "case"
+        },
+        {
+          "idx": 8,
+          "word": "diagram"
+        },
+        {
+          "idx": 9,
+          "word": "in"
+        },
+        {
+          "idx": 10,
+          "word": "terms"
+        },
+        {
+          "idx": 11,
+          "word": "of"
+        },
+        {
+          "idx": 12,
+          "word": "the"
+        },
+        {
+          "idx": 13,
+          "word": "web"
+        },
+        {
+          "idx": 14,
+          "word": "system"
+        },
+        {
+          "idx": 15,
+          "word": "\"SmarText"
+        },
+        {
+          "idx": 16,
+          "word": "PDF\"."
+        },
+        {
+          "idx": 17,
+          "word": "The"
+        },
+        {
+          "idx": 18,
+          "word": "system"
+        },
+        {
+          "idx": 19,
+          "word": "provides"
+        },
+        {
+          "idx": 20,
+          "word": "automated"
+        },
+        {
+          "idx": 21,
+          "word": "proofreading"
+        },
+        {
+          "idx": 22,
+          "word": "with"
+        },
+        {
+          "idx": 23,
+          "word": "text-to-speech"
+        },
+        {
+          "idx": 24,
+          "word": "functionality."
+        },
+        {
+          "idx": 25,
+          "word": "The"
+        },
+        {
+          "idx": 26,
+          "word": "use"
+        },
+        {
+          "idx": 27,
+          "word": "case"
+        },
+        {
+          "idx": 28,
+          "word": "or"
+        },
+        {
+          "idx": 29,
+          "word": "key"
+        },
+        {
+          "idx": 30,
+          "word": "features"
+        },
+        {
+          "idx": 31,
+          "word": "illustrated"
+        },
+        {
+          "idx": 32,
+          "word": "on"
+        },
+        {
+          "idx": 33,
+          "word": "the"
+        },
+        {
+          "idx": 34,
+          "word": "figure"
+        },
+        {
+          "idx": 35,
+          "word": "are"
+        },
+        {
+          "idx": 36,
+          "word": "includes"
+        },
+        {
+          "idx": 37,
+          "word": "signing"
+        },
+        {
+          "idx": 38,
+          "word": "up"
+        },
+        {
+          "idx": 39,
+          "word": "or"
+        },
+        {
+          "idx": 40,
+          "word": "logging"
+        },
+        {
+          "idx": 41,
+          "word": "in"
+        },
+        {
+          "idx": 42,
+          "word": "to"
+        },
+        {
+          "idx": 43,
+          "word": "acess"
+        },
+        {
+          "idx": 44,
+          "word": "the"
+        },
+        {
+          "idx": 45,
+          "word": "web-based"
+        },
+        {
+          "idx": 46,
+          "word": "platform,"
+        },
+        {
+          "idx": 47,
+          "word": "uploading"
+        },
+        {
+          "idx": 48,
+          "word": "a"
+        },
+        {
+          "idx": 49,
+          "word": "PDF"
+        },
+        {
+          "idx": 50,
+          "word": "documnt"
+        },
+        {
+          "idx": 51,
+          "word": "for"
+        },
+        {
+          "idx": 52,
+          "word": "proofreading,"
+        },
+        {
+          "idx": 53,
+          "word": "and"
+        },
+        {
+          "idx": 54,
+          "word": "automatically"
+        },
+        {
+          "idx": 55,
+          "word": "proofreading"
+        },
+        {
+          "idx": 56,
+          "word": "the"
+        },
+        {
+          "idx": 57,
+          "word": "document."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "The"
+        },
+        {
+          "idx": 1,
+          "word": "figure"
+        },
+        {
+          "idx": 2,
+          "word": "shown"
+        },
+        {
+          "idx": 3,
+          "word": "above"
+        },
+        {
+          "idx": 4,
+          "word": "is"
+        },
+        {
+          "idx": 5,
+          "word": "the"
+        },
+        {
+          "idx": 6,
+          "word": "use"
+        },
+        {
+          "idx": 7,
+          "word": "case"
+        },
+        {
+          "idx": 8,
+          "word": "diagram"
+        },
+        {
+          "idx": 9,
+          "word": "for"
+        },
+        {
+          "idx": 10,
+          "word": "the"
+        },
+        {
+          "idx": 11,
+          "word": "web"
+        },
+        {
+          "idx": 12,
+          "word": "system"
+        },
+        {
+          "idx": 13,
+          "word": "\"SmarText"
+        },
+        {
+          "idx": 14,
+          "word": "PDF.\""
+        },
+        {
+          "idx": 15,
+          "word": "The"
+        },
+        {
+          "idx": 16,
+          "word": "system"
+        },
+        {
+          "idx": 17,
+          "word": "provides"
+        },
+        {
+          "idx": 18,
+          "word": "automated"
+        },
+        {
+          "idx": 19,
+          "word": "proofreading"
+        },
+        {
+          "idx": 20,
+          "word": "with"
+        },
+        {
+          "idx": 21,
+          "word": "text-to-speech"
+        },
+        {
+          "idx": 22,
+          "word": "functionality."
+        },
+        {
+          "idx": 23,
+          "word": "The"
+        },
+        {
+          "idx": 24,
+          "word": "use"
+        },
+        {
+          "idx": 25,
+          "word": "case"
+        },
+        {
+          "idx": 26,
+          "word": "or"
+        },
+        {
+          "idx": 27,
+          "word": "key"
+        },
+        {
+          "idx": 28,
+          "word": "features"
+        },
+        {
+          "idx": 29,
+          "word": "illustrated"
+        },
+        {
+          "idx": 30,
+          "word": "in"
+        },
+        {
+          "idx": 31,
+          "word": "the"
+        },
+        {
+          "idx": 32,
+          "word": "figure"
+        },
+        {
+          "idx": 33,
+          "word": "include"
+        },
+        {
+          "idx": 34,
+          "word": "signing"
+        },
+        {
+          "idx": 35,
+          "word": "up"
+        },
+        {
+          "idx": 36,
+          "word": "or"
+        },
+        {
+          "idx": 37,
+          "word": "logging"
+        },
+        {
+          "idx": 38,
+          "word": "in"
+        },
+        {
+          "idx": 39,
+          "word": "to"
+        },
+        {
+          "idx": 40,
+          "word": "access"
+        },
+        {
+          "idx": 41,
+          "word": "the"
+        },
+        {
+          "idx": 42,
+          "word": "web-based"
+        },
+        {
+          "idx": 43,
+          "word": "platform,"
+        },
+        {
+          "idx": 44,
+          "word": "uploading"
+        },
+        {
+          "idx": 45,
+          "word": "a"
+        },
+        {
+          "idx": 46,
+          "word": "PDF"
+        },
+        {
+          "idx": 47,
+          "word": "document"
+        },
+        {
+          "idx": 48,
+          "word": "for"
+        },
+        {
+          "idx": 49,
+          "word": "proofreading,"
+        },
+        {
+          "idx": 50,
+          "word": "and"
+        },
+        {
+          "idx": 51,
+          "word": "automatically"
+        },
+        {
+          "idx": 52,
+          "word": "proofreading"
+        },
+        {
+          "idx": 53,
+          "word": "the"
+        },
+        {
+          "idx": 54,
+          "word": "document."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 2,
+          "word": "above",
+          "type": "error"
+        },
+        {
+          "index": 3,
+          "word": "shown",
+          "type": "error"
+        },
+        {
+          "index": 9,
+          "word": "in",
+          "type": "error"
+        },
+        {
+          "index": 16,
+          "word": "PDF\".",
+          "type": "error"
+        },
+        {
+          "index": 32,
+          "word": "on",
+          "type": "error"
+        },
+        {
+          "index": 36,
+          "word": "includes",
+          "type": "error"
+        },
+        {
+          "index": 43,
+          "word": "acess",
+          "type": "error"
+        },
+        {
+          "index": 50,
+          "word": "documnt",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 3,
+          "word": "above",
+          "type": "corrected",
+          "suggestions": [
+            "above"
+          ]
+        },
+        {
+          "index": 2,
+          "word": "shown",
+          "type": "corrected",
+          "suggestions": [
+            "shown"
+          ]
+        },
+        {
+          "index": 9,
+          "word": "for",
+          "type": "corrected",
+          "suggestions": [
+            "for"
+          ]
+        },
+        {
+          "index": 14,
+          "word": "PDF.\"",
+          "type": "corrected",
+          "suggestions": [
+            "PDF.\""
+          ]
+        },
+        {
+          "index": 30,
+          "word": "in",
+          "type": "corrected",
+          "suggestions": [
+            "in"
+          ]
+        },
+        {
+          "index": 33,
+          "word": "include",
+          "type": "corrected",
+          "suggestions": [
+            "include"
+          ]
+        },
+        {
+          "index": 40,
+          "word": "access",
+          "type": "corrected",
+          "suggestions": [
+            "access"
+          ]
+        },
+        {
+          "index": 47,
+          "word": "document",
+          "type": "corrected",
+          "suggestions": [
+            "document"
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": 4,
+      "original": "Furthermore, users can compare the original document with those proofread version and access a text-to-speech function to listen to the text. Once the proofreading is completed, users can downloaded the corrected PDF. The use case diagram is illustrates the users interaction to the functionality in the system, detailing the users steps from uplaoding a document to downloading the from final corrected version.",
+      "proofread": "Furthermore, users can compare the original document with the proofread version and access a text-to-speech function to listen to the text. Once the proofreading is completed, users can download the corrected PDF. The use case diagram illustrates the users' interaction with the functionality in the system, detailing the users' steps from uploading a document to downloading the final corrected version.",
+      "original_token": [
+        {
+          "idx": 0,
+          "word": "Furthermore,"
+        },
+        {
+          "idx": 1,
+          "word": "users"
+        },
+        {
+          "idx": 2,
+          "word": "can"
+        },
+        {
+          "idx": 3,
+          "word": "compare"
+        },
+        {
+          "idx": 4,
+          "word": "the"
+        },
+        {
+          "idx": 5,
+          "word": "original"
+        },
+        {
+          "idx": 6,
+          "word": "document"
+        },
+        {
+          "idx": 7,
+          "word": "with"
+        },
+        {
+          "idx": 8,
+          "word": "those"
+        },
+        {
+          "idx": 9,
+          "word": "proofread"
+        },
+        {
+          "idx": 10,
+          "word": "version"
+        },
+        {
+          "idx": 11,
+          "word": "and"
+        },
+        {
+          "idx": 12,
+          "word": "access"
+        },
+        {
+          "idx": 13,
+          "word": "a"
+        },
+        {
+          "idx": 14,
+          "word": "text-to-speech"
+        },
+        {
+          "idx": 15,
+          "word": "function"
+        },
+        {
+          "idx": 16,
+          "word": "to"
+        },
+        {
+          "idx": 17,
+          "word": "listen"
+        },
+        {
+          "idx": 18,
+          "word": "to"
+        },
+        {
+          "idx": 19,
+          "word": "the"
+        },
+        {
+          "idx": 20,
+          "word": "text."
+        },
+        {
+          "idx": 21,
+          "word": "Once"
+        },
+        {
+          "idx": 22,
+          "word": "the"
+        },
+        {
+          "idx": 23,
+          "word": "proofreading"
+        },
+        {
+          "idx": 24,
+          "word": "is"
+        },
+        {
+          "idx": 25,
+          "word": "completed,"
+        },
+        {
+          "idx": 26,
+          "word": "users"
+        },
+        {
+          "idx": 27,
+          "word": "can"
+        },
+        {
+          "idx": 28,
+          "word": "downloaded"
+        },
+        {
+          "idx": 29,
+          "word": "the"
+        },
+        {
+          "idx": 30,
+          "word": "corrected"
+        },
+        {
+          "idx": 31,
+          "word": "PDF."
+        },
+        {
+          "idx": 32,
+          "word": "The"
+        },
+        {
+          "idx": 33,
+          "word": "use"
+        },
+        {
+          "idx": 34,
+          "word": "case"
+        },
+        {
+          "idx": 35,
+          "word": "diagram"
+        },
+        {
+          "idx": 36,
+          "word": "is"
+        },
+        {
+          "idx": 37,
+          "word": "illustrates"
+        },
+        {
+          "idx": 38,
+          "word": "the"
+        },
+        {
+          "idx": 39,
+          "word": "users"
+        },
+        {
+          "idx": 40,
+          "word": "interaction"
+        },
+        {
+          "idx": 41,
+          "word": "to"
+        },
+        {
+          "idx": 42,
+          "word": "the"
+        },
+        {
+          "idx": 43,
+          "word": "functionality"
+        },
+        {
+          "idx": 44,
+          "word": "in"
+        },
+        {
+          "idx": 45,
+          "word": "the"
+        },
+        {
+          "idx": 46,
+          "word": "system,"
+        },
+        {
+          "idx": 47,
+          "word": "detailing"
+        },
+        {
+          "idx": 48,
+          "word": "the"
+        },
+        {
+          "idx": 49,
+          "word": "users"
+        },
+        {
+          "idx": 50,
+          "word": "steps"
+        },
+        {
+          "idx": 51,
+          "word": "from"
+        },
+        {
+          "idx": 52,
+          "word": "uplaoding"
+        },
+        {
+          "idx": 53,
+          "word": "a"
+        },
+        {
+          "idx": 54,
+          "word": "document"
+        },
+        {
+          "idx": 55,
+          "word": "to"
+        },
+        {
+          "idx": 56,
+          "word": "downloading"
+        },
+        {
+          "idx": 57,
+          "word": "the"
+        },
+        {
+          "idx": 58,
+          "word": "from"
+        },
+        {
+          "idx": 59,
+          "word": "final"
+        },
+        {
+          "idx": 60,
+          "word": "corrected"
+        },
+        {
+          "idx": 61,
+          "word": "version."
+        }
+      ],
+      "proofread_token": [
+        {
+          "idx": 0,
+          "word": "Furthermore,"
+        },
+        {
+          "idx": 1,
+          "word": "users"
+        },
+        {
+          "idx": 2,
+          "word": "can"
+        },
+        {
+          "idx": 3,
+          "word": "compare"
+        },
+        {
+          "idx": 4,
+          "word": "the"
+        },
+        {
+          "idx": 5,
+          "word": "original"
+        },
+        {
+          "idx": 6,
+          "word": "document"
+        },
+        {
+          "idx": 7,
+          "word": "with"
+        },
+        {
+          "idx": 8,
+          "word": "the"
+        },
+        {
+          "idx": 9,
+          "word": "proofread"
+        },
+        {
+          "idx": 10,
+          "word": "version"
+        },
+        {
+          "idx": 11,
+          "word": "and"
+        },
+        {
+          "idx": 12,
+          "word": "access"
+        },
+        {
+          "idx": 13,
+          "word": "a"
+        },
+        {
+          "idx": 14,
+          "word": "text-to-speech"
+        },
+        {
+          "idx": 15,
+          "word": "function"
+        },
+        {
+          "idx": 16,
+          "word": "to"
+        },
+        {
+          "idx": 17,
+          "word": "listen"
+        },
+        {
+          "idx": 18,
+          "word": "to"
+        },
+        {
+          "idx": 19,
+          "word": "the"
+        },
+        {
+          "idx": 20,
+          "word": "text."
+        },
+        {
+          "idx": 21,
+          "word": "Once"
+        },
+        {
+          "idx": 22,
+          "word": "the"
+        },
+        {
+          "idx": 23,
+          "word": "proofreading"
+        },
+        {
+          "idx": 24,
+          "word": "is"
+        },
+        {
+          "idx": 25,
+          "word": "completed,"
+        },
+        {
+          "idx": 26,
+          "word": "users"
+        },
+        {
+          "idx": 27,
+          "word": "can"
+        },
+        {
+          "idx": 28,
+          "word": "download"
+        },
+        {
+          "idx": 29,
+          "word": "the"
+        },
+        {
+          "idx": 30,
+          "word": "corrected"
+        },
+        {
+          "idx": 31,
+          "word": "PDF."
+        },
+        {
+          "idx": 32,
+          "word": "The"
+        },
+        {
+          "idx": 33,
+          "word": "use"
+        },
+        {
+          "idx": 34,
+          "word": "case"
+        },
+        {
+          "idx": 35,
+          "word": "diagram"
+        },
+        {
+          "idx": 36,
+          "word": "illustrates"
+        },
+        {
+          "idx": 37,
+          "word": "the"
+        },
+        {
+          "idx": 38,
+          "word": "users'"
+        },
+        {
+          "idx": 39,
+          "word": "interaction"
+        },
+        {
+          "idx": 40,
+          "word": "with"
+        },
+        {
+          "idx": 41,
+          "word": "the"
+        },
+        {
+          "idx": 42,
+          "word": "functionality"
+        },
+        {
+          "idx": 43,
+          "word": "in"
+        },
+        {
+          "idx": 44,
+          "word": "the"
+        },
+        {
+          "idx": 45,
+          "word": "system,"
+        },
+        {
+          "idx": 46,
+          "word": "detailing"
+        },
+        {
+          "idx": 47,
+          "word": "the"
+        },
+        {
+          "idx": 48,
+          "word": "users'"
+        },
+        {
+          "idx": 49,
+          "word": "steps"
+        },
+        {
+          "idx": 50,
+          "word": "from"
+        },
+        {
+          "idx": 51,
+          "word": "uploading"
+        },
+        {
+          "idx": 52,
+          "word": "a"
+        },
+        {
+          "idx": 53,
+          "word": "document"
+        },
+        {
+          "idx": 54,
+          "word": "to"
+        },
+        {
+          "idx": 55,
+          "word": "downloading"
+        },
+        {
+          "idx": 56,
+          "word": "the"
+        },
+        {
+          "idx": 57,
+          "word": "final"
+        },
+        {
+          "idx": 58,
+          "word": "corrected"
+        },
+        {
+          "idx": 59,
+          "word": "version."
+        }
+      ],
+      "original_text": [
+        {
+          "index": 8,
+          "word": "those",
+          "type": "error"
+        },
+        {
+          "index": 28,
+          "word": "downloaded",
+          "type": "error"
+        },
+        {
+          "index": 36,
+          "word": "is",
+          "type": "error"
+        },
+        {
+          "index": 37,
+          "word": "illustrates",
+          "type": "error"
+        },
+        {
+          "index": 39,
+          "word": "users",
+          "type": "error"
+        },
+        {
+          "index": 41,
+          "word": "to",
+          "type": "error"
+        },
+        {
+          "index": 49,
+          "word": "users",
+          "type": "error"
+        },
+        {
+          "index": 52,
+          "word": "uplaoding",
+          "type": "error"
+        },
+        {
+          "index": 58,
+          "word": "from",
+          "type": "error"
+        }
+      ],
+      "revised_text": [
+        {
+          "index": 8,
+          "word": "the",
+          "type": "corrected",
+          "suggestions": [
+            "the"
+          ]
+        },
+        {
+          "index": 28,
+          "word": "download",
+          "type": "corrected",
+          "suggestions": [
+            "download"
+          ]
+        },
+        {
+          "index": 36,
+          "word": "illustrates",
+          "type": "corrected",
+          "suggestions": [
+            "illustrates"
+          ]
+        },
+        {
+          "index": 38,
+          "word": "users'",
+          "type": "corrected",
+          "suggestions": [
+            "users'"
+          ]
+        },
+        {
+          "index": 40,
+          "word": "with",
+          "type": "corrected",
+          "suggestions": [
+            "with"
+          ]
+        },
+        {
+          "index": 48,
+          "word": "users'",
+          "type": "corrected",
+          "suggestions": [
+            "users'"
+          ]
+        },
+        {
+          "index": 51,
+          "word": "uploading",
+          "type": "corrected",
+          "suggestions": [
+            "uploading"
+          ]
+        }
+      ]
+    }
+  ]
+}
